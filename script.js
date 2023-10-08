@@ -1,4 +1,4 @@
-//IF
+//IF ELSE
 let rasaMakanan = "pedas";
 
 if (rasaMakanan === "pedas") {
@@ -10,7 +10,7 @@ if (rasaMakanan === "pedas") {
 } else {
   console.log("Ada berbagai macam makanan, kita harus mencoba semuanya");
 }
-//AKHIR IF
+//AKHIR IF ELSE
 console.log("--------------------------------------------------");
 
 //NESTED IF
